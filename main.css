@@ -1,0 +1,17 @@
+.main {
+    margin: 100px;
+    /* margin-top: 100px;
+    margin-bottom: 100px; */
+}
+
+img{
+    width: auto;
+    height: 100px;
+    border: 0.5px solid lightgray;
+    padding: 60px;
+
+}
+
+.row{
+margin: 30px;
+}
